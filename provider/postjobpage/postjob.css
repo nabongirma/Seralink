@@ -13,6 +13,7 @@ body{
 @media screen and (max-width: 600px) {
   .container {
     width: 90%;
+    
   }
   form {
     text-align: center;

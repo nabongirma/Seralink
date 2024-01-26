@@ -1,8 +1,6 @@
 <?php
 include 'header.php';
 ?>
-
-
     <section class="post-ajob">
       <div class="container" margin-top: 20px;>
         <div class="postcolor">
